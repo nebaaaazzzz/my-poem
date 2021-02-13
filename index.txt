@@ -2,3 +2,7 @@ dog
 cat 
 lion 
 frog
+rat
+giraffe
+goat
+sheep
