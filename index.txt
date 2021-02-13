@@ -1,9 +1,15 @@
-gragon
-dog
-cat 
-lion 
-frog
-rat
-giraffe
-goat
-sheep
+enki
+programming hub
+online complier
+idea bag
+devrant
+grasshoper
+codeboard
+
+decoder
+sololearn
+codedamn
+anlinux
+for installing vscode
+geekydriver
+termux
